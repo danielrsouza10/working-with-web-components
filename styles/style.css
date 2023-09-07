@@ -36,7 +36,6 @@
 .card__right {
   display: flex;
   justify-content: flex-start;
-  width: auto;
 }
 
 .card__right > img {
